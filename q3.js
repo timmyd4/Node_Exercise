@@ -12,7 +12,7 @@ function removeDuplicates(array)
     testArray3 = total
     console.log(testArray3);
 }
-
+m
 // Test for remove duplicates
 
 let testArray3 = [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]; // [1, 2, 3, 4, 5]
@@ -20,3 +20,12 @@ let testArray3 = [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]; // [1, 2, 3, 4, 5]
 // TODO: display the array with duplicates removed in the console
 
 removeDuplicates(testArray3);
+
+/*
+Tim Williams
+Nicolaus Butenko
+
+Tuesday 01-14-2025
+In Class Assignment
+
+*/

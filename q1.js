@@ -16,3 +16,12 @@ let testArray = [1, 2, 3, 4, 5]; // 15
 // TODO: display the sum of the array in the console
 
 sumArray(testArray);
+
+/*
+Tim Williams
+Nicolaus Butenko
+
+Tuesday 01-14-2025
+In Class Assignment
+
+*/

@@ -17,3 +17,12 @@ let testArray2 = [1, 4, 5, 4, 3]; // 5
 
 // TODO: display the largest number in the array in the console
 findLargest(testArray2);
+
+/*
+Tim Williams
+Nicolaus Butenko
+
+Tuesday 01-14-2025
+In Class Assignment
+
+*/

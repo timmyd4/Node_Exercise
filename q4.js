@@ -30,3 +30,12 @@ let testString2 = "hello"; // false
 
 console.log(checkPalindrome(testString));
 console.log(checkPalindrome(testString2));
+
+/*
+Tim Williams
+Nicolaus Butenko
+
+Tuesday 01-14-2025
+In Class Assignment
+
+*/
