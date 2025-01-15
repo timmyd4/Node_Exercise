@@ -25,11 +25,13 @@ function checkPalindrome(textInput)
 
 let testString = "racecar"; // true
 let testString2 = "hello"; // false
+let testString3 = "dammitimmad" // true
 
 // TODO: display the result of the test strings in the console
 
 console.log(checkPalindrome(testString));
 console.log(checkPalindrome(testString2));
+console.log(checkPalindrome(testString3));
 
 /*
 Tim Williams
